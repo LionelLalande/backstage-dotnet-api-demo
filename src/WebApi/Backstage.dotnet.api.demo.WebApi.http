@@ -1,0 +1,6 @@
+@Backstage.dotnet.api.demo.WebApi_HostAddress = http://localhost:5142
+
+GET {{Backstage.dotnet.api.demo.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
